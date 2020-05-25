@@ -58,8 +58,8 @@ Ramkrishna Mission Vidyalaya, Narendrapur <span style="float: right; ">90%</span
 **CYR3CON** - Software Developer Intern <span style="float: right; ">May 2017 - Aug 2017</span>
 <hr>
 
-**Teaching Assistant, The Polytechnic School, ASU** -  <span style="float: right; "></span>
-IFT 100 Intro to Info Tech (Spring 2019)
+**Teaching Assistant, The Polytechnic School, ASU** -  <span style="float: right; ">Spring 2019</span>
+IFT 100: Intro to Info Tech
 <hr>
 
 **DiSARM Project NIT Durgapur** - Project Student Associate <span style="float: right; ">Jun 2017 - Jan 2018</span>
