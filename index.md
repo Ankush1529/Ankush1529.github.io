@@ -7,13 +7,10 @@ sitemap:
 ---
 
 <img src="{{ '/assets/img/dp.jpg' | prepend: site.baseurl }}" id="about-img">
-img 
-{
-  border-radius: 50%;
-}
+
 <div id="describe-text">
     <p>My current areas of interest are software development, cyber security, computer networks.</p>
-	<p><strong><a target="_blank" href="https://scholar.google.co.in/citations?user=25PuQ_QAAAAJ&hl=en&oi=ao">Google Scholar</a> |<a target="_blank" href="https://github.com/Ankush1529">GitHub</a></strong></p>
+	<p><strong><a target="_blank" href="https://scholar.google.co.in/citations?user=25PuQ_QAAAAJ&hl=en&oi=ao">Google Scholar</a> | <a target="_blank" href="https://github.com/Ankush1529">GitHub</a></strong></p>
 </div>
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
