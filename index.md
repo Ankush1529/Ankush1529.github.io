@@ -36,7 +36,7 @@ Department of Computer Science and Engineering
  
 **All India Senior School Certificate Examination** <span style="float: right; ">2014</span>  
 
-Nava Nalanda Santiniketan <span style="float: right; ">94%</span>
+Bhavan's Gangabux Kanoria Vidyamandir <span style="float: right; ">94%</span>
 
 <hr>
 
@@ -54,10 +54,13 @@ Ramkrishna Mission Vidyalaya, Narendrapur <span style="float: right; ">90%</span
 
 
 ### EXPERIENCE
-**Teaching Assistant** -  <span style="float: right; ">IIT Kharagpur</span>
-Networks Lab (Spring 2019)
- Advances in Operating Systems Design (Autumn 2019)
 
+**Software Developer Intern** -  <span style="float: right; ">CYR3CON</span>
+Spring 2020
+<hr>
+
+**Teaching Assistant** -  <span style="float: right; ">Arizona State University</span>
+IFT 100 Intro to Info Tech (Spring 2019)
 <hr>
 
 **Cityprobe Project NIT Durgapur** - Project Student Associate <span style="float: right; ">Dec 2017 - May 2018</span>
