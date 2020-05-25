@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ankush Kr. Mandal
-subtitle: Arizona State University
+subtitle: Ankush Kr. Mandal
 sitemap:
   priority: 0.9
 ---
@@ -56,10 +56,9 @@ Ramkrishna Mission Vidyalaya, Narendrapur <span style="float: right; ">90%</span
 ### EXPERIENCE
 
 **CYR3CON** - Software Developer Intern <span style="float: right; ">May 2017 - Aug 2017</span>
-Design and implement Microsoft Returns Dashboard using TSQL, ASP, and Power BI.
 <hr>
 
-**Teaching Assistant** -  <span style="float: right; ">The Polytechnic School, Arizona State University</span>
+**Teaching Assistant, The Polytechnic School, ASU** -  <span style="float: right; "></span>
 IFT 100 Intro to Info Tech (Spring 2019)
 <hr>
 
