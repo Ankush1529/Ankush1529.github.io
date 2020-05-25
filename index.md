@@ -20,7 +20,7 @@ sitemap:
 
 **Arizona State University** <span style="float: right; ">Fall 2019 - Present</span>  
 
-Master's in Computer Science (MCS) <span style="float: right; ">Machine Learning</span>
+Master's in Computer Science (MCS) <span style="float: right; ">GPA: 3.72</span>
 
 ASU School of Computing, Informatics, and Decision Systems Engineering
 
@@ -30,7 +30,7 @@ ASU School of Computing, Informatics, and Decision Systems Engineering
 
 Bachelor of Technology <span style="float: right; ">GPA: 3.8</span>
 
-Department of Computer Science and Engineering
+First Class with Distinction from Department of Computer Science and Engineering
 
 <hr>
  
@@ -59,7 +59,7 @@ Ramkrishna Mission Vidyalaya, Narendrapur <span style="float: right; ">90%</span
 Design and implement Microsoft Returns Dashboard using TSQL, ASP, and Power BI.
 <hr>
 
-**Teaching Assistant** -  <span style="float: right; ">Arizona State University</span>
+**Teaching Assistant** -  <span style="float: right; ">The Polytechnic School, Arizona State University</span>
 IFT 100 Intro to Info Tech (Spring 2019)
 <hr>
 
@@ -71,11 +71,11 @@ Packet based data transmission through challenged networks
 Security scheme using Stackelbrg Game theory for Service-oriented applications
 <hr>
 
-**DiSARM project NIT Durgapur**
-
-Winter Intern <span style="float: right; ">Dec 2017- Jan 2018</span>
-
+**DiSARM project NIT Durgapur** - Winter Intern <span style="float: right; ">Dec 2017- Jan 2018</span>
 Integration of data transmission on a open source single-board computer (Orange Pi Plus 2)
+
+**Kharagpur Winter of Code, IIT Durgapur** - Winter Intern <span style="float: right; ">Dec 2017</span>
+Devised a GUI with Tkinter and Page in an Open Source Code Competition (Dec 2017) 
 
 <br>
 
@@ -93,6 +93,7 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 ### ACHIEVEMENTS
 
 - Appointed by the Notetaking Services (Disability Resource Center), Arizona State University to take in-person notes for CSE 464 : Software QA and Testing.
+- Received Engineering Graduate Fellowship at ASU for 2019-2020 for my extraordinary academic achievements.
 - Successfully completed and received a certificate from Inter Institutional Inclusive Innovations Centre for Smart India Hackathon 2018. (Government of India).
 - Won winter intern certificate for remarkable performance (winter 2017-18) at project DISARM, NIT Durgapur
 - Led a 2-tier team of 80 people as Executive Event Manager, SPIC MACAY NIT Durgapur Chapter.
