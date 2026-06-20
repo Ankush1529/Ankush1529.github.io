@@ -1,10 +1,10 @@
 # Site settings
 title: Ankush Kr. Mandal
 description: >
-  Ankush Kr. Mandal programmer, developer, researcher
+  Ankush Kr. Mandal — Software Engineer at Microsoft. Developer, researcher.
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://mandalankush.github.io" # the base hostname & protocol for your site
+url: "https://ankush1529.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: Ankush Kr. Mandal

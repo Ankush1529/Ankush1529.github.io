@@ -9,8 +9,8 @@ sitemap:
 <img src="{{ '/assets/img/dp.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-    <p>My current areas of interest are software development, cyber security, computer networks.</p>
-	<p><strong><a target="_blank" href="https://scholar.google.co.in/citations?user=25PuQ_QAAAAJ&hl=en&oi=ao">Google Scholar</a> | <a target="_blank" href="https://github.com/Ankush1529">GitHub</a></strong></p>
+    <p>I'm a Software Engineer at Microsoft (Bellevue, WA), building cross-platform client infrastructure and cloud services. My areas of interest are software development, distributed systems, cloud, computer networks, and cyber security.</p>
+	<p><strong><a target="_blank" href="https://www.linkedin.com/in/ankushmandal/">LinkedIn</a> | <a target="_blank" href="https://github.com/Ankush1529">GitHub</a> | <a target="_blank" href="https://scholar.google.co.in/citations?user=25PuQ_QAAAAJ&hl=en&oi=ao">Google Scholar</a></strong></p>
 </div>
 
 <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
@@ -18,9 +18,9 @@ sitemap:
 
 ### EDUCATION
 
-**Arizona State University** <span style="float: right; ">Fall 2019 - Present</span>  
+**Arizona State University** <span style="float: right; ">2019 - 2021</span>  
 
-Master's in Computer Science (MCS) <span style="float: right; ">GPA: 3.72</span>
+Master's in Computer Science (MCS) <span style="float: right; ">GPA: 3.9</span>
 
 ASU School of Computing, Informatics, and Decision Systems Engineering
 
@@ -54,6 +54,10 @@ Ramkrishna Mission Vidyalaya, Narendrapur <span style="float: right; ">90%</span
 
 
 ### EXPERIENCE
+
+**Microsoft** - Software Engineer <span style="float: right; ">May 2021 - Present</span>
+Building cross-platform client infrastructure and cloud services.
+<hr>
 
 **CYR3CON** - Software Developer Intern <span style="float: right; ">May 2017 - Aug 2017</span>
 <hr>
