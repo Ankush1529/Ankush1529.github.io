@@ -60,9 +60,7 @@ Building cross-platform client infrastructure and cloud services.
 <hr>
 
 **PayPal** - Software Engineer <span style="float: right; ">Jun 2021 - May 2022</span>
-- Proposed and led the migration of production applications to internal infrastructure using Django, RabbitMQ, and Jenkins, reducing end-to-end pipeline execution time by 25% across 3 services.
-- Designed and implemented a RESTful API for keyword-based rule exposure, cutting rule creation time by 2 minutes per email and eliminating a manual workflow for the compliance team.
-- Built automated API validation and monitoring pipelines using Swagger, RabbitMQ, and Kibana, tracking Supervisor worker node health across a distributed environment and reducing incident detection time.
+Migrated production applications to internal infrastructure and built RESTful APIs and monitoring pipelines for the compliance team.
 <hr>
 
 **CYR3CON** - Software Developer Intern <span style="float: right; ">May 2017 - Aug 2017</span>
