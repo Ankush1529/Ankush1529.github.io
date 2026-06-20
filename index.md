@@ -55,8 +55,14 @@ Ramkrishna Mission Vidyalaya, Narendrapur <span style="float: right; ">90%</span
 
 ### EXPERIENCE
 
-**Microsoft** - Software Engineer <span style="float: right; ">May 2021 - Present</span>
+**Microsoft** - Software Engineer <span style="float: right; ">May 2022 - Present</span>
 Building cross-platform client infrastructure and cloud services.
+<hr>
+
+**PayPal** - Software Engineer <span style="float: right; ">Jun 2021 - May 2022</span>
+- Proposed and led the migration of production applications to internal infrastructure using Django, RabbitMQ, and Jenkins, reducing end-to-end pipeline execution time by 25% across 3 services.
+- Designed and implemented a RESTful API for keyword-based rule exposure, cutting rule creation time by 2 minutes per email and eliminating a manual workflow for the compliance team.
+- Built automated API validation and monitoring pipelines using Swagger, RabbitMQ, and Kibana, tracking Supervisor worker node health across a distributed environment and reducing incident detection time.
 <hr>
 
 **CYR3CON** - Software Developer Intern <span style="float: right; ">May 2017 - Aug 2017</span>
