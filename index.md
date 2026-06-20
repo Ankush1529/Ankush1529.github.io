@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ankush Kr. Mandal
-subtitle: Ankush Kr. Mandal
+subtitle: Software Engineer at Microsoft
 sitemap:
   priority: 0.9
 ---
